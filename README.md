@@ -42,8 +42,8 @@ I am Shivam Samant. I am a software developer at ColoredCow or tech enthusiast &
   
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=tokyonight" />
+<!-- <p align="center"> -->
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=tokyonight" /> -->
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=vue" width = 400> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Samant&theme=tokyonight" />
-</p>
+<!-- </p> -->
