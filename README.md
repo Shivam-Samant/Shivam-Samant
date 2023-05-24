@@ -1,4 +1,4 @@
-## Hi, Great to see you here! :)
+## Hi, Great to see you here!
 
 I am Shivam Samant. I am a software developer at ColoredCow or tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -14,36 +14,37 @@ I am Shivam Samant. I am a software developer at ColoredCow or tech enthusiast &
 - [CII Sustainable Development](https://sustainabledevelopment.in/brands/sustainability-summit/) 🌎
 - [Sankalptaru](https://sankalptaru.org/) 🌳 - Nature-centric enthusiasts, planting trees for the people, by the people!
 - [VALL](https://vallindia.com/) 👬
+- [Because](http://because.center/) - An ecosystem containing various modules to become the home for citizen's social contribution milestones
   
   
-## ⚡ Technologies
+## ⚡ Tools & Technologies
 
-### Language :
-
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
-
-
-### Libraries & Framework :
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
-
-
-### Version Control:
-
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=social)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
-  
-  
-## &#x1f4c8; GitHub Stats
+![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
 
-<!-- <p align="center"> -->
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=tokyonight" /> -->
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=vue" width = 400> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Samant&theme=tokyonight" />
-<!-- </p> -->
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=5)](https://github.com/AkhileshNegi/github-profile-trophy)
+
+
+### &#x1f4c8; GitHub Stats
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=vue" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Shivam-Samant" width = 400>
+</p>
+
