@@ -14,12 +14,12 @@ I am Shivam Samant. I am a software developer at ColoredCow or tech enthusiast &
 - [CII Sustainable Development](https://sustainabledevelopment.in/brands/sustainability-summit/) 🌎
 - [Sankalptaru](https://sankalptaru.org/) 🌳 - Nature-centric enthusiasts, planting trees for the people, by the people!
 - [VALL](https://vallindia.com/) 👬
-- [Because](http://because.center/) - An ecosystem containing various modules to become the home for citizen's social contribution milestones
+- [BeCause](http://because.center/) - An ecosystem containing various modules to become the home for citizen's social contribution milestones
   
   
 ## ⚡ Tools & Technologies
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social&logoColor=blue)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)&nbsp;&nbsp;
@@ -34,6 +34,7 @@ I am Shivam Samant. I am a software developer at ColoredCow or tech enthusiast &
 ![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
 ![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social&logoColor=blue)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
 
 
