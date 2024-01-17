@@ -3,7 +3,7 @@
 I am Shivam Samant. I am a software developer at ColoredCow or tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-shivamsamant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-samant-82a4bb223/)](https://www.linkedin.com/in/shivam-samant-82a4bb223/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-shivamsamant000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivamsamant000@gmail.com)](mailto:shivamsamant000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shivamsamant1111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivamsamant1111@gmail.com)](mailto:shivamsamant1111@gmail.com)
 
 ### :newspaper: Blog Posts
 - [My Internship Experience at ColoredCow](https://medium.com/@shivamsamant1111/my-internship-experience-at-coloredcow-f97256e27b72)
