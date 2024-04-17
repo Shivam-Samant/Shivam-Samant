@@ -6,7 +6,7 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
 <p align="center">
-  <samp>A highly resourceful computer programmer tech enthusiast & an open-source advocate, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>A highly resourceful computer programmer, tech enthusiast & an open-source advocate, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Shivam-Samant" alt="https://github.com/ileriayo" />
