@@ -2,8 +2,6 @@
 
 ![BG-BANNER](https://github.com/Shivam-Samant/Shivam-Samant/assets/91321534/47363361-77d6-4298-9952-4ba7bf793ff0)
 
-<p align="center"> (Open for Hiring)</p>
-
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
 <p align="center">
