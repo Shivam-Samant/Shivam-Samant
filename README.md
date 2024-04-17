@@ -23,7 +23,7 @@
 
 <br>
 
-<h2>:computer: Work</h2>
+<h2>:computer: Projects</h2>
 
 - 🌳 [Sankalptaru](https://sankalptaru.org/) - Nature-centric enthusiasts, planting trees for the people, by the people!
 - 👧 [SwaTaleem](https://www.swataleem.org/) - Creating Thriving School Communities For Adolescent Girls In India.
@@ -73,7 +73,8 @@
 <br>
 
 <h2>&#x1f4c8; GitHub Stats</h2>
-<p align = "left">
+<p align="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=vue" width = 400>
-<!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Shivam-Samant" width = 400> -->
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=2077" width=595 />
 </p>
