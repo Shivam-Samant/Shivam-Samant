@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Shivam-Samant" alt="https://github.com/ileriayo" />
 </p>
 
-<br>
-
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/shivam~samant/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,7 +96,7 @@
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <p align="left">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-Samant&theme=tokyonight" width = 300>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-Samant&theme=tokyonight" width="30%">
   &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=tokyonight" width=500 />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=tokyonight" width="60%" />
 </p>
