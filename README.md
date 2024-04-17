@@ -25,11 +25,13 @@
 
 <h2>:computer: Work</h2>
 
-- [Sankalptaru](https://sankalptaru.org/) 🌳 - Nature-centric enthusiasts, planting trees for the people, by the people!
-- [Employee Portal](https://github.com/ColoredCow/portal) 👨‍💻 - A hub-and-spoke platform for organization operations.
-- [VALL](https://vallindia.com/) 👬 - Bringing together diverse talents to drive sustainable and impactful change for NGOs.
-- [BeCause](http://because.center/) 🧑‍🤝‍🧑 - An ecosystem containing various modules to become the home for citizen's social contribution milestones.
-- [CII Sustainable Development](https://sustainabledevelopment.in/brands/sustainability-summit/) 🌎
+- 🌳 [Sankalptaru](https://sankalptaru.org/) - Nature-centric enthusiasts, planting trees for the people, by the people!
+- 👧 [SwaTaleem](https://www.swataleem.org/) - Creating Thriving School Communities For Adolescent Girls In India.
+- 🧑‍🤝‍🧑 [BeCause](http://because.center/) - An ecosystem containing various modules to become the home for citizen's social contribution milestones.
+- 🎨 [Lopez Design](https://thisislopez.com/) - Multidisciplinary design studio and brand consultant.
+- 👨‍💻 [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
+- 👬 [VALL](https://vallindia.com/) - Bringing together diverse talents to drive sustainable and impactful change for NGOs.
+- 🌎 [CII Sustainable Development](https://sustainabledevelopment.in/brands/sustainability-summit/) - Centre of Excellence for Sustainable Development.
 
 <br>
   
