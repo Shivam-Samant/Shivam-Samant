@@ -74,7 +74,7 @@
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <p align="left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=vue" width = 400>
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=2077" width=595 />
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-Samant&theme=tokyonight" width = 300>
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=tokyonight" width=600 />
 </p>
