@@ -89,11 +89,13 @@
 
 <br>
 
+<!--
 <h2>🏆 GitHub Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=5)](https://github.com/AkhileshNegi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivam-Samant&margin-w=5)](https://github.com/Shivam-Samant/github-profile-trophy)
 
 <br>
+-->
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <p align="left">
