@@ -100,5 +100,5 @@
 <p align="left">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-Samant&theme=tokyonight" width = 300>
   &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=tokyonight" width=595 />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Samant&theme=tokyonight" width=500 />
 </p>
