@@ -1,23 +1,39 @@
-## Hi, Great to see you here!
+<h1 align="center"> 👋 </h1>
 
-I am Shivam Samant, Software Developer at ColoredCow, tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+![S_BANNER](https://github.com/Shivam-Samant/Shivam-Samant/assets/91321534/129a53af-c125-4a62-a699-9e1ca2539bb9)
+<p align="center"> (Open for Hiring)</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-shivamsamant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-samant-82a4bb223/)](https://www.linkedin.com/in/shivam-samant-82a4bb223/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-shivamsamant1111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivamsamant1111@gmail.com)](mailto:shivamsamant1111@gmail.com)
+<h2 align="center"> 👨‍💻 Whoami</h2>
 
-### :newspaper: Blog Posts
-- [My Internship Experience at ColoredCow](https://medium.com/@shivamsamant1111/my-internship-experience-at-coloredcow-f97256e27b72)
+<p align="center">
+  <samp>A highly resourceful computer programmer tech enthusiast & an open-source advocate, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=Shivam-Samant" alt="https://github.com/ileriayo" />
+</p>
 
-### :computer: Work
+<br>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/shivam~samant/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shivamsamant1111@gmail.com?subject=Hello%20Shivam,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ShivamSamant5"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<h2>:computer: Work</h2>
 
 - [Sankalptaru](https://sankalptaru.org/) 🌳 - Nature-centric enthusiasts, planting trees for the people, by the people!
 - [Employee Portal](https://github.com/ColoredCow/portal) 👨‍💻 - A hub-and-spoke platform for organization operations.
 - [VALL](https://vallindia.com/) 👬 - Bringing together diverse talents to drive sustainable and impactful change for NGOs.
 - [BeCause](http://because.center/) 🧑‍🤝‍🧑 - An ecosystem containing various modules to become the home for citizen's social contribution milestones.
 - [CII Sustainable Development](https://sustainabledevelopment.in/brands/sustainability-summit/) 🌎
+
+<br>
   
-  
-## ⚡ Tools & Technologies
+<h2>⚡ Tools & Technologies</h2>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social&logoColor=blue)&nbsp;&nbsp;
@@ -40,15 +56,22 @@ I am Shivam Samant, Software Developer at ColoredCow, tech enthusiast & an open-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social&logoColor=blue)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
 
+<br>
 
-### 🏆 GitHub Trophies
+<h2> :newspaper: Blog Posts </h2>
+
+- [My Internship Experience at ColoredCow](https://medium.com/@shivamsamant1111/my-internship-experience-at-coloredcow-f97256e27b72)
+
+<br>
+
+<h2>🏆 GitHub Trophies</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshNegi&margin-w=5)](https://github.com/AkhileshNegi/github-profile-trophy)
 
+<br>
 
-### &#x1f4c8; GitHub Stats
+<h2>&#x1f4c8; GitHub Stats</h2>
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=Shivam-Samant&show_icons=true&theme=vue" width = 400>
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Shivam-Samant" width = 400> -->
 </p>
-
