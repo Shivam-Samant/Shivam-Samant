@@ -1,6 +1,7 @@
 <h1 align="center"> 👋 </h1>
 
-![BG_BANNER](https://github.com/Shivam-Samant/Shivam-Samant/assets/91321534/5018dfb0-ca71-4111-82f2-fde38d724de1)
+![BG-BANNER](https://github.com/Shivam-Samant/Shivam-Samant/assets/91321534/47363361-77d6-4298-9952-4ba7bf793ff0)
+
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
