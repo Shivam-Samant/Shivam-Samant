@@ -1,6 +1,7 @@
 <h1 align="center"> 👋 </h1>
 
-![BG-BANNER](https://github.com/Shivam-Samant/Shivam-Samant/assets/91321534/47363361-77d6-4298-9952-4ba7bf793ff0)
+![BG-BANNER](https://github.com/user-attachments/assets/8cd359c2-e4ed-4055-b8b4-eb2a208c2926)
+
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
